@@ -47,7 +47,7 @@ namespace stopwatch
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("value insserted");
+            MessageBox.Show("value insserted"); MessageBox.Show("value insserted");
         }
     }
 }
